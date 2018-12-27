@@ -1,0 +1,4 @@
+=> creating model 'resnet101'
+=> loading checkpoint 'model_best.pth.tar'
+=> loaded checkpoint 'model_best.pth.tar' (epoch 34)
+11702
